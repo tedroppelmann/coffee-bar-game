@@ -10,3 +10,7 @@ To run the game:
 ```
 python3 main.py
 ```
+
+## Considerations
+
+You need to have installed PyQt5 to see the GUI. 
